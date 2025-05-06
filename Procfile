@@ -1,1 +1,1 @@
-web: gunicorn cafe_sales_dashboard_using_Dash:app.server
+web: gunicorn cafe_sales_dashboard_using_dash:app.server
