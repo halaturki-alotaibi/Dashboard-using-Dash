@@ -24,6 +24,6 @@ Distribution of payment methods
 
 
 
-**Interactive Dashboard :** https://54b7-35-230-30-84.ngrok-free.app/ 
+**Interactive Dashboard :** (https://86db-34-145-60-133.ngrok-free.app/) 
 
  **Datasourse :** https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training 
